@@ -1,10 +1,10 @@
-# Order Detail
-
-### ownCloud module **[WISECP](https://puqcloud.com/link.php?id=78)** 
+## ownCloud module **[WISECP](https://puqcloud.com/link.php?id=78)** 
 
 ##### [Order now](https://puqcloud.com/index.php?rp=/store/wisecp-module-owncloud) | [Download](https://download.puqcloud.com/WISECP/Product/PUQ_WISECP-ownCloud/) | [FAQ](https://faq.puqcloud.com/)
 
-##### Navigate to the service you want to manage, then go to the '**Core**' tab.
+# Order Detail
+
+### Navigate to the service you want to manage, then go to the '**Core**' tab.
 
 [![image-1703615607459.png](https://doc.puq.info/uploads/images/gallery/2023-12/scaled-1680-/image-1703615607459.png)](https://doc.puq.info/uploads/images/gallery/2023-12/image-1703615607459.png)
 
@@ -20,6 +20,4 @@ You can also individually override package options for the client by checking th
 
 [![image-1703615624854.png](https://doc.puq.info/uploads/images/gallery/2023-12/scaled-1680-/image-1703615624854.png)](https://doc.puq.info/uploads/images/gallery/2023-12/image-1703615624854.png)
 
-<p class="callout warning">Note: When changing the Server Group, Server fields, make sure you have a user with the username as specified in the 'Username' field pre-created on the new server. Otherwise, you will need to recreate the service for your client.</p>
-
-<div id="bkmrk--2"><div></div></div>
+>Note: When changing the Server Group, Server fields, make sure you have a user with the username as specified in the 'Username' field pre-created on the new server. Otherwise, you will need to recreate the service for your client.
