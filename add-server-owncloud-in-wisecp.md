@@ -1,0 +1,38 @@
+# Add server (ownCloud) in WISECP
+
+### ownCloud module **[WISECP](https://puqcloud.com/link.php?id=78)** 
+
+##### [Order now](https://puqcloud.com/index.php?rp=/store/wisecp-module-owncloud) | [Download](https://download.puqcloud.com/WISECP/Product/PUQ_WISECP-ownCloud/) | [FAQ](https://faq.puqcloud.com/)
+
+##### 1. Log in to the administrative area of your **[WISECP](https://puqcloud.com/link.php?id=78)**.
+
+#####   
+2. Go to module configuration.
+
+```
+Services -> Service Management -> Module Settings -> Other -> All Modules -> PUQ ownCloud
+```
+
+[![image-1700485721333.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/image-1700485721333.png)](https://doc.puq.info/uploads/images/gallery/2023-11/image-1700485721333.png)
+
+[![image-1700485726951.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/image-1700485726951.png)](https://doc.puq.info/uploads/images/gallery/2023-11/image-1700485726951.png)
+
+[![image-1700485737918.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/image-1700485737918.png)](https://doc.puq.info/uploads/images/gallery/2023-11/image-1700485737918.png)
+
+[![image-1703615118692.png](https://doc.puq.info/uploads/images/gallery/2023-12/scaled-1680-/image-1703615118692.png)](https://doc.puq.info/uploads/images/gallery/2023-12/image-1703615118692.png)
+
+##### 3. In the opened page, click the '**Add Server**' button.
+
+[![image-1703615171650.png](https://doc.puq.info/uploads/images/gallery/2023-12/scaled-1680-/image-1703615171650.png)](https://doc.puq.info/uploads/images/gallery/2023-12/image-1703615171650.png)
+
+#####  
+
+##### 4. On the opened page, enter all the necessary information:
+
+- **Name**: Displayed name of the server.
+- **Maximum Number of Accounts**: The number of services that can be on this server.
+- **Server Group**: Optionally, choose the server group.
+- **IP Address or Domain**: The address of the ownCloud server you are connecting to.
+- **Username/Password**: Username and Password on the ownCloud server.
+- Check the **SSL** box if you want to use SSL-encrypted connection. If necessary, specify the port and perform a connection test.  
+    [![image-1703615218695.png](https://doc.puq.info/uploads/images/gallery/2023-12/scaled-1680-/image-1703615218695.png)](https://doc.puq.info/uploads/images/gallery/2023-12/image-1703615218695.png)
