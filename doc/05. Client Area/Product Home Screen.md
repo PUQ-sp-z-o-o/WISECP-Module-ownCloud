@@ -11,4 +11,6 @@
 - Server and account settings
 - Ability to change the password for your account
 
-[![image-1703616174983.png](https://doc.puq.info/uploads/images/gallery/2023-12/scaled-1680-/image-1703616174983.png)](https://doc.puq.info/uploads/images/gallery/2023-12/image-1703616174983.png)
+![image](https://github.com/PUQ-sp-z-o-o/WISECP-Module-ownCloud/assets/81689153/ef92fa8b-1603-4d12-9984-778e268d3429)
+
+![image](https://github.com/PUQ-sp-z-o-o/WISECP-Module-ownCloud/assets/81689153/882a95b2-1fdd-4f45-ae6a-7a1c2768abd2)
