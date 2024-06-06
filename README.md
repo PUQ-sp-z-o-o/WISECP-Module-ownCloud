@@ -48,7 +48,7 @@ The module is used to create customer accounts on the previously prepared ownClo
 
 ### Screenshot of the client area
 
-![image](https://github.com/PUQ-sp-z-o-o/WISECP-Module-ownCloud/assets/81689153/fa84da5c-5257-4420-a790-d0c384f1f3d7)
+![image](https://github.com/PUQ-sp-z-o-o/WISECP-Module-ownCloud/assets/81689153/0cb89709-df1e-4257-a42f-a8c46346fab3)
 
 ### Screenshot of the Admin area
 
